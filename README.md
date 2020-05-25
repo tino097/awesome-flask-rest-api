@@ -1,6 +1,10 @@
 # Awesome-REST-api
 
-Awesome examples how to build a REST API using different frameworks
+# Awesome Flask Rest API
+
+[![Wercker](https://img.shields.io/badge/python-v3.8-green.svg?style=flat-square&logo=python)](https://python.org)
+[![Wercker](https://img.shields.io/badge/flask-v1.1.1-green.svg?style=flat-square&logo=flask)](https://flask.palletsprojects.com/en/1.1.x/)
+[![Wercker](https://img.shields.io/badge/restix-v0.1.1-green.svg?style=flat-square&logo=flask)](https://flask-restx.readthedocs.io/en/latest/)
 
 ## Requirements
 
