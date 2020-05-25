@@ -1,5 +1,3 @@
-# Awesome-REST-api
-
 # Awesome Flask Rest API
 
 [![Wercker](https://img.shields.io/badge/python-v3.8-green.svg?style=flat-square&logo=python)](https://python.org)
