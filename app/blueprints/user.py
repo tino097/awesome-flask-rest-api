@@ -1,8 +1,8 @@
-from app.blueprints import user_pb
+from app.blueprints import user_bp
 from flask_restx import Api, Resource
 
 
-api = Api(user_pb, doc="/docs")
+api = Api(user_bp, doc="/docs")
 user_ns = api.namespace("user", description="User CRUD operations")
 
 @user_ns.route("/")
