@@ -10,4 +10,4 @@ MarkupSafe==1.1.1
 pyrsistent==0.15.7
 pytz==2019.3
 six==1.14.0
-Werkzeug==0.16.1
+Werkzeug==2.2.3
